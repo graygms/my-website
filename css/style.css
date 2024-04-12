@@ -1,0 +1,26 @@
+body{
+    background-color: aquamarine;
+}
+ul{
+    ;
+    background-color: darkblue;
+    
+    background-color: blue;
+    text-align: left;
+   list-style-type: none ;
+}
+li{
+float:right
+}
+ li a {
+    top: 0%;
+    color: #fff;
+    padding: 8px;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+li a:hover{
+    background-color: green;
+    text-transform: uppercase;
+}
